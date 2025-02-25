@@ -1,1 +1,0 @@
-# VaLiddar-EtiquetaS
