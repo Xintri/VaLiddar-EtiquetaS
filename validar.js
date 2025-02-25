@@ -35,6 +35,7 @@ function validar(form) {
         return false;
     }
     // Si todo es válido
-    return true;
     alert("Se envió correctamente")
+    return true;
+    
 }
