@@ -1,0 +1,58 @@
+label {
+    display: block;
+    margin-top: 20px;
+    letter-spacing: 1px;
+}
+
+.principal {
+    display: block;
+    margin: 0 auto;
+    width: 510px;
+    color: #666666;
+    font-family: Arial, sans-serif;
+}
+
+form {
+    margin: 0 auto;
+    width: 400px;
+}
+
+.cajas {
+    width: 380px;
+    height: 15px;
+    background: #666666;
+    border: 2px solid #f6f6f6;
+    padding: 10px;
+    margin-top: 5px;
+    font-size: 14px;
+    color: #ffffff;
+}
+
+select, textarea {
+    width: 400px;
+    height: 40px;
+    background: #666666;
+    border: 2px solid #f6f6f6;
+    padding: 10px;
+    margin-top: 5px;
+    font-size: 14px;
+    color: #ffffff;
+}
+
+textarea {
+    height: 100px;
+}
+
+.boton {
+    width: 85px;
+    height: 40px;
+    border: none;
+    background: #333;
+    color: white;
+    margin-top: 20px;
+    cursor: pointer;
+}
+
+.boton:hover {
+    background: #555;
+}
